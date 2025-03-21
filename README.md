@@ -20,7 +20,7 @@
 <h2 align="center">🐍 Contribution Snake🐍</h2>
 <br/>
 <p align="center">
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KKAnanayo/KKAnanayo/output/github-contribution-grid-snake.svg" /> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KKAnanayo/KKAnanayo/output/github-contribution-grid-snake.svg" /> 
 </p>
 
 <h3 align="center">
