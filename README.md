@@ -17,6 +17,17 @@
     <img src="https://skillicons.dev/icons?i=express,nodejs,java,cs,wordpress,dotnet,mongodb,mysql" /><br>
 </div>
 
+<h2 align="center">🐍 Contribution Snake🐍</h2>
+<br/>
+<p align="center">
+    ![snake gif](https://github.com/KKAnanayo/KKAnanayo/blob/output/github-contribution-grid-snake.svg)
+</p>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebo[...]
+</h3>
+
+<br/>
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <p align="center">
