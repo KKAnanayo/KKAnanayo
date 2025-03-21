@@ -47,7 +47,9 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git pull --rebase
-          git add -A
+          git add dist/github-contribution-grid-snake.svg
+          git add dist/github-contribution-grid-snake-dark.svg
+          git add dist/github-contribution-grid-snake.gif
           git commit -m 'Generate snake grid' || echo "No changes to commit"
           git push
         env:
