@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE2c3poa2Y3NHBqanA1N3FkcWg0Nm53ZXBwN3I4bDM3cGp1M29hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif" width="600" height="400"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE2c3poa2Y3NHBqanA1N3FkcWg0Nm53ZXBwN3I4bDM3cGp1M29hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif"/>
 </h1>
 
 
