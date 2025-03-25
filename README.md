@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vscode,github,git,eclipse,visualstudio,python,kotlin" />
-    <img src="https://skillicons.dev/icons?i=express,nodejs,java,cs,wordpress,dotnet,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=express,nodejs,java,cs,wordpress,dotnet,mongodb,mysql,androidstudio" /><br>
 </div>
 
 <h2 align="center">🐍 Contribution Snake🐍</h2>
