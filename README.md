@@ -3,6 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Kevin!%3B)" />
 </h1>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princeren-36.princeren-36" />
+<h1 align="center">
+    <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Renato!" alt="Typing SVG" />
+</h1>
+
+
 <br/>
 
 #### IT Student | Based in the Philippines 🇵🇭
