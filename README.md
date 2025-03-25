@@ -3,9 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Kevin!%3B)" />
 </h1>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princeren-36.princeren-36" />
 <h1 align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE2c3poa2Y3NHBqanA1N3FkcWg0Nm53ZXBwN3I4bDM3cGp1M29hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzE2c3poa2Y3NHBqanA1N3FkcWg0Nm53ZXBwN3I4bDM3cGp1M29hZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UO5elnTqo4vSg/giphy.gif" width="600" height="400"/>
 </h1>
 
 
