@@ -4,7 +4,7 @@
 </h1>
 <h1 align="center">
         <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princeren-36.princeren-36" />
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJndHZsbzN3dWYyOW9hcmMyOHRkOXF3M2V5NDRkaDBsMHd4ZWZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUQz11R97rQj5EYxAx/giphy.gif"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtmamdtOWE1Nm5naWVybWs4cjVmOGZpcWlweDVqdmRidTFhd3YwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a692I53FP9XtvM4YCc/giphy.gif"/>
 </h1>
 <br/>
 
