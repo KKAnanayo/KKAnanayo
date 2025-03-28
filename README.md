@@ -4,7 +4,7 @@
 </h1>
 <h1 align="center">
         <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=princeren-36.princeren-36" />
-    <img src="https://tenor.com/view/5x30-training-min-day-5x30-min-a-day-gif-14525709310925289040"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJndHZsbzN3dWYyOW9hcmMyOHRkOXF3M2V5NDRkaDBsMHd4ZWZyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TUQz11R97rQj5EYxAx/giphy.gif"/>
 </h1>
 <br/>
 
