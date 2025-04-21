@@ -10,7 +10,6 @@
 
 #### IT Student | Based in the Philippines 🇵🇭
 
-📩 **Contact Me:** [jadenyuki486@gmail.com](mailto:jadenyuki486@gmail.com)
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
