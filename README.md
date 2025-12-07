@@ -23,7 +23,7 @@
 <!-- 🚀 Programming Languages -->
 <h3 align="center">🚀 Programming Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,vb.net" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,vb" />
 </div>
 <br/>
 
