@@ -20,42 +20,20 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 
-<!-- 🚀 Programming Languages -->
-<h3 align="center">🚀 Programming Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,vb.net" />
+
+  <!-- Row 1 -->
+  <h3>🚀 Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cs,vb.net,react,express,nodejs,dotnet" />
+  <br/><br/>
+
+  <!-- Row 2 -->
+  <h3>🛠️ Tools, Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,postman,eclipse,androidstudio,mongodb,mysql,firebase,ubuntu,bash,azure,rabbitmq,wordpress" />
+
 </div>
 <br/>
 
-<!-- ⚛️ Frameworks & Libraries -->
-<h3 align="center">⚛️ Frameworks & Libraries</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,express,nodejs,dotnet,materialui,vite" />
-</div>
-<br/>
-
-<!-- 🛠️ Developer Tools -->
-<h3 align="center">🛠️ Developer Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,postman,eclipse,androidstudio" />
-</div>
-<br/>
-
-<!-- 🗄️ Databases -->
-<h3 align="center">🗄️ Databases</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</div>
-<br/>
-
-<!-- ☁️ DevOps & Cloud -->
-<h3 align="center">☁️ DevOps & Cloud</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ubuntu,bash,azure,rabbitmq,wordpress" />
-</div>
-<br/>
-
----
 
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 <br/>
